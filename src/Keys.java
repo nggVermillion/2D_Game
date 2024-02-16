@@ -1,0 +1,10 @@
+public enum Keys {
+    UP_KEY,
+    DOWN_KEY,
+    LEFT_KEY,
+    RIGHT_KEY,
+    UP_KEY_RELEASED,
+    DOWN_KEY_RELEASED,
+    LEFT_KEY_RELEASED,
+    RIGHT_KEY_RELEASED
+}
